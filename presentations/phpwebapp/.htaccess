@@ -1,0 +1,4 @@
+#SetHandler default-handler
+DirectoryIndex index.xpl
+AddType text/xml .xpl
+AddType text/xml .xsl
